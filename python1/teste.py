@@ -2,4 +2,4 @@
 import sys
 algo = sys.argv[1]
 ogla = sys.argv[2]
-print(algo, 'e', ogla, 'foram computados')
+print(algo+ogla)
